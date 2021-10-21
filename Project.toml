@@ -1,8 +1,9 @@
 [deps]
-DifferentialEquations
-Plots
-LaTeXStrings
-PlutoUI
+DifferentialEquations = "6.19.0"
+Plots = "1.22.6"
+LaTeXStrings = "1.2.1"
+PlutoUI = "0.7.16"
+QuantumOptics = "1.0.1"
 
 
 
