@@ -1,2 +1,10 @@
+[deps]
+DifferentialEquations
+Plots
+LaTeXStrings
+PlutoUI
+
+
+
 [compat]
 julia = "1.6.3"
